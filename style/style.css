@@ -64,3 +64,59 @@ img {
     width: 100%;
     height: 100%;
 }
+
+
+.schermo {
+    text-align: center;
+    position: absolute;
+    z-index: 3;
+    height: 300px;
+    width: 700px;
+
+    top: 50%;
+    margin-top: -150px;
+
+    left: 50%;
+    margin-left: -350px;
+
+    backdrop-filter: blur(60px);                      
+    -webkit-backdrop-filter: blur(60px);
+
+    border-radius: 20px;    
+}
+
+.bottoniSchermo01 {
+
+    float: left;
+    height: 50px;
+    width: 150px;
+}
+
+.bottoniSchermo02 {
+    margin-left: 80px;
+    float: left;
+    height: 50px;
+    width: 150px;
+}
+
+
+
+
+
+.contenitoreSchermo {
+    text-align: center;
+    align-items: center;
+    width: 380px;
+    position: absolute;
+    left: 50%;
+    margin-left: -180px;
+    top: 80%; 
+}
+
+
+
+.testoSchermo {
+    top: 15%;
+    color: #222;
+}
+
