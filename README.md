@@ -13,8 +13,10 @@ on development tictactoe program in JavaScript
 grafica base: ✅
 funzioni per assegnare croci: ✅
 controllo di fine partita (9 turni, tris riscontrato): ✅
-scelta vincitore o pareggio: ✅ (non ancora online)
+scelta vincitore o pareggio: ✅ 
 controllo di sovrapposizione caselle: ⏳
-grafica vittoria: ⏳
+grafica vittoria: ✅ (migliorabile) (con rigioca e esci)---> esci non funzionante
+salvataggio punteggio su localStorage: ✅
+richiamo punteggi su schermata principale: ⏳
 
 
