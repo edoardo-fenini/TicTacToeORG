@@ -20,3 +20,6 @@ salvataggio punteggio su localStorage: ✅
 richiamo punteggi su schermata principale: ✅
 
 
+
+
+
