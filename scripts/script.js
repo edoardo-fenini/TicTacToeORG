@@ -309,3 +309,8 @@ function bottone9() {
 
         body.appendChild(schermo);           //aggiunta al body della schermata di fine partita
     }
+
+
+
+    document.getElementById("punteggio_croci").innerHTML = localStorage.getItem("Punteggio croci").length;
+    document.getElementById("punteggio_cerchi").innerHTML = localStorage.getItem("Punteggio cerchi").length;
