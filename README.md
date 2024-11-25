@@ -17,6 +17,6 @@ scelta vincitore o pareggio: ✅
 controllo di sovrapposizione caselle: ⏳
 grafica vittoria: ✅ (migliorabile) (con rigioca e esci)---> esci non funzionante
 salvataggio punteggio su localStorage: ✅
-richiamo punteggi su schermata principale: ⏳
+richiamo punteggi su schermata principale: ✅
 
 
